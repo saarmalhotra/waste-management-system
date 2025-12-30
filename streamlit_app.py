@@ -14,7 +14,7 @@ else:
 
 st.set_page_config(page_title="AI Waste Management System", page_icon="♻️", layout="wide")
 
-st.title("♻️ AI-Powered Waste Management System")
+st.title("♻️ AI-Powered Waste Management System - v2")
 st.markdown("---")
 
 # Sidebar navigation
