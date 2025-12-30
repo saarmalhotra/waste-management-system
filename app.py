@@ -283,3 +283,4 @@ st.markdown("""
 <p>Help us keep the environment clean! Proper waste segregation saves our planet.</p>
 </div>
 """, unsafe_allow_html=True)
+
